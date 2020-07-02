@@ -130,3 +130,8 @@ Script file **categories_distribution.py** presents the way how to plot the hist
 included in the main dataset and how to save it into image file.
 
 **polish_stopwords.txt** is a file which includes polish stopwords which can be removed from the vectorizer.
+
+## Authors
+- Marta Kruczek-Szepel
+- Krystyna Piątkowska
+
